@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
-//primeiro commit
+#include <stdlib.h> 
+
 int verificaStringVazia(char string[])
 {
 	if(string[0] == '\0')
